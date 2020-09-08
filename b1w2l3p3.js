@@ -1,5 +1,5 @@
 // Stijn Dusseldorp
 // Software Developer
 
- var x = 12+6*10/5-12
- document.write("12 + 6 * 10 / 5 - 12 = " + x)
+var som=(12+6)*10/5-12;
+document.write("(12 + 6) * 10 / 5 - 12 =", som);
